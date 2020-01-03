@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* focus */
+#focus {
+    width: 640px;
+    height: 320px;
+    overflow: hidden;
+    position: relative;
+}
+#focus ul {
+    height: 286px;
+    position: absolute;
+}
+#focus ul li {
+    float: left;
+    width: 640px;
+    height: 286px;
+    overflow: hidden;
+    position: relative;
+    background: #000;
+}
+#focus ul li div {
+    position: absolute;
+    overflow: hidden;
+}
+#focus .btnBg {
+    position: absolute;
+    width: 640px;
+    height: 20px;
+    left: 0;
+    bottom: 0;
+}
+#focus .btn {
+    position: relative;
+    height: 10px;
+    padding: 5px 10px;
+    top: 300px;
+    bottom: 5px;
+    text-align: center;
+}
+#focus .btn span {
+    display: inline-block;
+    _display: inline;
+    _zoom: 1;
+    width: 40px;
+    height: 10px;
+    _font-size: 0;
+    margin-left: 5px;
+    cursor: pointer;
+    background: #ccc;
+}
+#focus .btn span.on {
+    background: #5b6ea4;
+}
+#focus .btn span:hover {
+    background: #5b6ea4;
+}
+#focus .preNext {
+    width: 56px;
+    height: 66px;
+    position: absolute;
+    top: 90px;
+    cursor: pointer;
+}
+#focus .pre {
+    left: 0;
+}
+
+#focus .next {
+    right: 0;
+    background-position: right top;
+}
+
+.img {
+    margin: 0 !important;
+    max-width: 100% !important;
+}

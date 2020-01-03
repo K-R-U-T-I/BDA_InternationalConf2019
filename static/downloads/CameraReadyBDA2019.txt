@@ -1,0 +1,26 @@
+BDA2019 Camera Ready Submission Instructions
+
+1.Prepare the paper in Springers LNCS format. https://www.springer.com/in/computer-science/lncs/conference-proceedings-guidelines
+
+2. The paper should be accompanied with the  signed Springer Copyright Form before it can be included into the LNCS proceedings.  The copy right form is available at the following URL: 
+
+https://resource-cms.springernature.com/springer-cms/rest/v1/content/15433008/data/Contract_Book_Contributor_Consent_to_Publish_LNCS_SIP
+
+One representative author of your each paper needs to sign and scan the form and include it into your camera ready submission.  Note that Springer will not accept digital signatures, so please make sure that your form has been signed in ink and well scanned.
+
+2. In the form, you may consider the inclusion of the following information to  address the relevant items:
+-Title of the book or conference name: BDA2019
+       - Volume editor(s):  Sanjay Madria, Philippe Fournier-Viger, Sanjay Chaudhary, P. Krishna Reddy 
+
+3. To submit the final version of your paper, please follow below procedures:
+1) Create a folder named BDA2019-XXXX, where XXXX is the last name of the contact author, and include  the following files:
+         * the source files of your paper, including figures
+         * the PDF file of your paper
+         * authors.txt. The file should contain: Full names of all authors 
+(surnames clearly marked by block letters) and their email addresses. The contact author's name, postal mailing address and contact email address.
+         * scanned signed Springer copyright form
+
+2) Zip the folder into BDA2019XXXX.zip file.
+
+4. Send the Zip file to P.Krishna Reddy E-mail: pkreddy@iiit.ac.in.
+
